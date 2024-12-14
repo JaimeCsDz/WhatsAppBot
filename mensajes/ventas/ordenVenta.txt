@@ -1,0 +1,6 @@
+Para generar una nueva orden de venta sigue estos pasos: 
+1) Ingresar al sistema
+2) Click en nueva venta
+3) Listo
+
+Para mayor informacion consulta este PDF: www.hola.com

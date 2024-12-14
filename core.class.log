@@ -1,0 +1,171 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981509072@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BFBFAF12CE400BC881',
+    participant: undefined
+  },
+  messageTimestamp: 1734121891,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5219981509072'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cfdf7ddd-2b2d-4259-a28f-ba9725285e9e',
+  keyword: 'key_9b0ad05a-8ff5-4ca2-b34a-dff291e8b737',
+  answer: 'Hola, bienvenido. ¿Qué opción deseas?🤖\n' +
+    '\n' +
+    'Por favor, selecciona una de las siguientes opciones. 📜\r\n' +
+    '\r\n' +
+    '1 - Ventas 💸\r\n' +
+    '2 - Finanzas 🪙\r\n' +
+    '3 - Recursos Humanos 📨\r\n' +
+    '0 - Salir ❌\r\n' +
+    '\r\n' +
+    'Teclea el número de la categoria para ver sus diferentes opciones 🙌',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da4eaf531490e0c41087a79e083e7b10'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981509072@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F513C584FA9F2D55C3',
+    participant: undefined
+  },
+  messageTimestamp: 1734121894,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5219981509072'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981509072@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB055A091987596097D99',
+    participant: undefined
+  },
+  messageTimestamp: 1734121896,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '5219981509072'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981509072@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01C742E97B33B9AADA2',
+    participant: undefined
+  },
+  messageTimestamp: 1734121905,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5219981509072'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981509072@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB091DEE850737EEF3A72',
+    participant: undefined
+  },
+  messageTimestamp: 1734121910,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5219981509072'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981509072@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB045857CBA2E8084C23D',
+    participant: undefined
+  },
+  messageTimestamp: 1734121914,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '5219981509072'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f815208f-12d2-4e00-a277-2cd18742b35d',
+  keyword: 'key_69a6462f-6cc3-42d2-88d5-9dac9363db32',
+  answer: 'Hola, bienvenido, para acceder al menú escribe la palabra "*hola*".',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9f6c147df8d0cfa6b42e426784d613c6'
+}

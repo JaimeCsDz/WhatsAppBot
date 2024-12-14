@@ -1,0 +1,6 @@
+Para cancelar una venta sigue estos pasos: 📋
+1) Abrir el sistema
+2) Localizar la venta a cancelar
+3) Dar click en cancelar venta
+
+Para mayor informacion consulta este PDF: https//www.ejemplo.mx 📁

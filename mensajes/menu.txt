@@ -1,0 +1,8 @@
+Por favor, selecciona una de las siguientes opciones. 📜
+
+1 - Ventas 💸
+2 - Finanzas 🪙
+3 - Recursos Humanos 📨
+0 - Salir ❌
+
+Teclea el número de la categoria para ver sus diferentes opciones 🙌

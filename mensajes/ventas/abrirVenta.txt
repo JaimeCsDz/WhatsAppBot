@@ -1,0 +1,6 @@
+Para abrir una venta sigue estos pasos: 📋
+1) Abrir el sistema
+2) Localizar el boton de *nueva venta*
+3) Dar click en *nueva venta*
+
+Para mayor informacion consulta este PDF: www.ejemplo.com 📁

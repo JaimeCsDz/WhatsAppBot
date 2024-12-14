@@ -1,0 +1,8 @@
+Haz escogido la categoria de ventas. Estas son las opciones disponibles
+
+1 - Cancelar venta. ❌
+2 - Abrir una venta. ✅
+3 - Generar nueva orden de venta. 🧾
+⚠️ Para volver al menú principal escoja esta opción 
+
+0 - Salir ❌
